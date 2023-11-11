@@ -1,0 +1,13 @@
+a = (input('Nhập chuỗi s1 : '))
+b = (input('Nhập chuỗi s2 : '))
+c = (input('Nhập chuỗi s3 : '))
+index = int(input('Nhập index : '))
+chieu_dai_chuoi = len(a)
+chieu_dai_chuoii = len(b)
+chieu_dai_chuoiii = len(c)
+lap_chuoi = b * 2
+print('Chiều dài chuỗi s1 = ', chieu_dai_chuoi)
+print('chiều dài chuỗi s2 = ', chieu_dai_chuoii)
+print('Chiều dài chuỗi s3 = ', chieu_dai_chuoiii)
+print('chuỗi s4 = ', a[2:4])
+print('chuỗi s2 lặp lại 2 lần = ', lap_chuoi)

@@ -1,0 +1,10 @@
+x = 10
+y = 5
+a = x + y
+b = x- y 
+c = x * y
+d = x / y
+print('tổng', 'x', '+', 'y', '=', a)
+print('hiệu', 'x', '-', 'y', '=', b)
+print('tích', 'x', '*', 'y', '=', c)
+print('thương', 'x', '/', 'y', '=', d)
